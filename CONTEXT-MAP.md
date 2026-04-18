@@ -119,7 +119,7 @@ Base URL: `https://homgorn.github.io/bot-to-bot-telegram/`
 - `/docs/high-load` - High load patterns
 - `/docs/mini-apps` - Mini Apps guide
 - `/docs/api` - API reference
-- `/examples/` - Code examples
+- `/docs/roadmap` - Development roadmap
 - `/ru/` - Russian version
 
 ---
@@ -142,3 +142,4 @@ Base URL: `https://homgorn.github.io/bot-to-bot-telegram/`
 
 **Last Updated:** 2026-04-18
 **Version:** 1.0.0
+**Status:** All tasks completed ✅
