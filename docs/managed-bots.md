@@ -1,3 +1,27 @@
+---
+title: Managed Bots API Guide - Bot-to-Bot Telegram
+description: Complete guide to Telegram Managed Bots API (Bot API 9.6). Learn how to programmatically create, manage, and control Telegram bots. Step-by-step tutorials and code examples.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram Managed Bots API, Bot API 9.6, getManagedBotToken, create Telegram bot programmatically, Bot Management Mode, Telegram bot tokens, managed bot lifecycle
+  - - meta
+    - name: robots
+      content: index, follow
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: Managed Bots API Guide - Bot-to-Bot Telegram
+  - - meta
+    - property: og:description
+      content: Complete guide to Telegram Managed Bots API. Programmatically create and manage bots.
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"Managed Bots API Guide","description":"Complete guide to Telegram Managed Bots API (Bot API 9.6). Learn to programmatically create and manage bots.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/managed-bots","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"},"programmingLanguage":["JavaScript","Python"]}'
+---
+
 # Managed Bots API Guide
 
 ## Complete Guide to Telegram Managed Bots (Bot API 9.6, April 2026)

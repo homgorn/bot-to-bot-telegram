@@ -1,3 +1,18 @@
+---
+title: MCP Integration Guide - Bot-to-Bot Telegram
+description: Complete guide to Model Context Protocol (MCP) integration for Telegram bots. Connect Claude, GPT, and other AI models to your Telegram bots.
+head:
+  - - meta
+    - name: keywords
+      content: MCP integration, Model Context Protocol, Claude Telegram bot, GPT Telegram integration, AI model connection, MCP server, aiogram-mcp, telegram-mcp
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"MCP Integration Guide","description":"Complete guide to Model Context Protocol (MCP) integration for Telegram bots.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/mcp-integration","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # MCP Integration Guide
 
 ## Model Context Protocol for Telegram Bots (April 2026)

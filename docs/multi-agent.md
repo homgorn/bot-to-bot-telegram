@@ -1,3 +1,18 @@
+---
+title: Multi-Agent AI Orchestration Guide - Bot-to-Bot Telegram
+description: Learn how to build multi-agent AI systems in Telegram. Coordinate specialized AI agents for complex tasks. Agent patterns, state management, and implementation examples.
+head:
+  - - meta
+    - name: keywords
+      content: Multi-Agent AI orchestration, Telegram AI agents, agent coordination, agent state management, AI agent patterns, multi-agent workflows, Telegram agent platform
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"Multi-Agent AI Orchestration Guide","description":"Build multi-agent AI systems in Telegram. Coordinate specialized AI agents.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/multi-agent","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # Multi-Agent AI Orchestration Guide
 
 ## Complete Guide to Multi-Agent Systems in Telegram (April 2026)

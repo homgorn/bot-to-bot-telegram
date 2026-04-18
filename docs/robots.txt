@@ -1,0 +1,28 @@
+# Robots.txt for Bot-to-Bot Telegram Documentation
+
+User-agent: *
+Allow: /docs/
+Allow: /docs/ru/
+Allow: /docs/getting-started
+Allow: /docs/installation
+Allow: /docs/quick-start
+Allow: /docs/managed-bots
+Allow: /docs/bot-to-bot
+Allow: /docs/multi-agent
+Allow: /docs/mcp-integration
+Allow: /docs/mini-apps
+Allow: /docs/high-load
+Allow: /docs/api-reference
+Allow: /docs/architecture
+Allow: /docs/roadmap
+Allow: /docs/faq
+Allow: /docs/howto
+
+Disallow: /docs/.vitepress/
+Disallow: /docs/node_modules/
+
+# Sitemap
+Sitemap: https://homgorn.github.io/bot-to-bot-telegram/sitemap.xml
+
+# Crawl-delay for rate limiting
+Crawl-delay: 1

@@ -1,3 +1,18 @@
+---
+title: High-Load Architecture Patterns - Bot-to-Bot Telegram
+description: Learn how to scale Telegram bots for high traffic. Rate limiting, horizontal scaling, queue architecture, caching strategies, and monitoring for 1000+ messages per second.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram bot high load, rate limiting Telegram, Telegram bot scaling, horizontal scaling Telegram bot, message queue Telegram, Redis caching Telegram bot, 429 error handling, Telegram bot performance
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"High-Load Architecture Patterns","description":"Scale Telegram bots for high traffic. Rate limiting, horizontal scaling, and optimization.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/high-load","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # High-Load Architecture Patterns
 
 ## Scaling Telegram Bots for High Traffic (April 2026)

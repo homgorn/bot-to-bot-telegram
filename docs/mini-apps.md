@@ -1,3 +1,18 @@
+---
+title: Telegram Mini Apps Development Guide - Bot-to-Bot Telegram
+description: Complete guide to Telegram Mini Apps development. Build web dashboards that run inside Telegram with native UX, payments, and secure authentication.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram Mini Apps, Telegram Web App, TMA development, Telegram dashboard, Telegram web app SDK, Telegram payments, initData authentication, Telegram Mini App deployment
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"Telegram Mini Apps Development Guide","description":"Build web dashboards that run inside Telegram with native UX and payments.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/mini-apps","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # Telegram Mini Apps Development Guide
 
 ## Complete Guide to Building Mini Apps (April 2026)

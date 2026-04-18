@@ -1,3 +1,18 @@
+---
+title: Bot-to-Bot Communication Guide - Bot-to-Bot Telegram
+description: Complete guide to Telegram Bot-to-Bot Communication. Learn how to enable inter-bot messaging in groups, prevent infinite loops, and build multi-bot workflows.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram Bot-to-Bot Communication, inter-bot messaging, bot-to-bot loop prevention, Bot-to-Bot Mode, Telegram group bot communication, multi-bot workflows
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"Bot-to-Bot Communication Guide","description":"Complete guide to Telegram Bot-to-Bot Communication. Enable inter-bot messaging in groups.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/bot-to-bot","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # Bot-to-Bot Communication Guide
 
 ## Complete Guide to Telegram Bot-to-Bot Communication (April 2026)
