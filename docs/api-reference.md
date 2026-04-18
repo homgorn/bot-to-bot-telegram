@@ -1,6 +1,16 @@
-# Справочник API
+---
+title: API Reference - Bot-to-Bot Telegram
+description: Complete API reference for Bot-to-Bot Telegram platform. REST API endpoints, Bot API methods, WebSocket, and MCP protocol documentation.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram Bot API reference, REST API Telegram, getManagedBotToken, Telegram API methods, bot API endpoints, MCP protocol, WebSocket Telegram
+  - - meta
+    - name: robots
+      content: index, follow
+---
 
-## API Reference - Bot-to-Bot Telegram Platform
+# API Reference - Bot-to-Bot Telegram Platform
 
 ### Table of Contents
 

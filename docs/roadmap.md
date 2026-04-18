@@ -1,3 +1,15 @@
+---
+title: Roadmap - Bot-to-Bot Telegram
+description: Development roadmap for Bot-to-Bot Telegram platform. Planned features, version timeline, and upcoming capabilities.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram bot roadmap, Bot-to-Bot Telegram features, future plans, version 1.1, version 2.0, planned features
+  - - meta
+    - name: robots
+      content: index, follow
+---
+
 # 🚀 Roadmap - Bot-to-Bot Telegram Platform
 
 ## Version 1.0.0 (April 2026) ✅ Current

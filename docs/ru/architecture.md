@@ -1,3 +1,15 @@
+---
+title: Архитектура системы - Bot-to-Bot Telegram
+description: Полная документация по архитектуре системы платформы Bot-to-Bot Telegram. Компонентная архитектура, поток данных, технологический стек и паттерны масштабирования.
+head:
+  - - meta
+    - name: keywords
+      content: Архитектура Telegram бота, системный дизайн Telegram, компонентная архитектура, паттерны высоких нагрузок, масштабирование, PostgreSQL Redis, Docker деплой
+  - - meta
+    - name: robots
+      content: index, follow
+---
+
 # Архитектура системы - Платформа Bot-to-Bot Telegram
 
 ## Содержание

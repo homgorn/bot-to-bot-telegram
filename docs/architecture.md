@@ -1,3 +1,18 @@
+---
+title: System Architecture - Bot-to-Bot Telegram
+description: Complete system architecture documentation for Bot-to-Bot Telegram platform. Component architecture, data flow, technology stack, and scalability patterns.
+head:
+  - - meta
+    - name: keywords
+      content: Telegram bot architecture, system design Telegram, component architecture, high load patterns, scalability, PostgreSQL Redis, Docker deployment
+  - - meta
+    - name: robots
+      content: index, follow
+  - - script
+    - type: application/ld+json
+      children: '{"@context":"https://schema.org","@type":"TechArticle","headline":"System Architecture - Bot-to-Bot Telegram","description":"Complete system architecture documentation for Bot-to-Bot Telegram platform.","url":"https://homgorn.github.io/bot-to-bot-telegram/docs/architecture","publisher":{"@type":"Organization","name":"Bot-to-Bot Telegram"}}'
+---
+
 # Architecture Overview
 
 ## System Architecture - Bot-to-Bot Telegram Platform
