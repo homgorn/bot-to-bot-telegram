@@ -1,0 +1,13 @@
+{
+  "name": "@bot-to-bot-telegram/docs",
+  "version": "1.0.0",
+  "description": "Bot-to-Bot Telegram Documentation Site",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.0"
+  }
+}
